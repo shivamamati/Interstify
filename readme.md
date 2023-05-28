@@ -1,0 +1,1 @@
+This code was just something for fun! It just compares simple vs compound interest!
